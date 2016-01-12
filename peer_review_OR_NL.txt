@@ -1,0 +1,12 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+  Yes!
+Is the code easy to read (good indentation, spacing, naming)?
+  Yes, easy to read
+Were jQuery effects used for user interaction?
+  Yes x3
+Is the web page(s) styled using Bootstrap and CSS?
+  Oh yeah!!!
+Is the site user-friendly?
+  Yes, easy to read text, good description, good design overall
+Do you have any additional constructive criticism or positive feedback to share?
+  You could have kept the flashcard classes the same so you would have only had to style them once.
