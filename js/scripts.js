@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $(".flashcard1").click(function(){
-    $("#JavaScript").toggle();
+    $("#JavaScript").toggle();                // So instead of setting the event listener to the flahscard1 class you could have used the #javascritp id to call the toggle method. This would have enabled you to just use one class to style instead of 18
     $("#JavaScriptDef").toggle();
   });
 
